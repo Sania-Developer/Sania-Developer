@@ -1,8 +1,6 @@
 Hi There ✋,
 
-I am a Flutter developer and I love creating beautiful and intuitive user interfaces. I utilize the Dart language to develop mobile apps
-that meet high standards in both aesthetics and functionality.I am passionate about user experience and I strive to create apps that are both
-visually appealing and easy to use. I am always looking for new ways to improve my skills and learn new technologies.
+I'm a Flutter developer who enjoys designing attractive and user-friendly user interfaces. I use the Dart programming language to create mobile apps that are both beautiful and practical. I'm a big fan of user experience and try to make apps that are both visually beautiful and simple to use. I'm constantly on the lookout for new methods to better my skills and master new technologies.
 
 -  I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
 - 🌱 I’m currently learning Flutter
