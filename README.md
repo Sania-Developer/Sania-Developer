@@ -6,7 +6,7 @@ I'm a Flutter developer who enjoys designing attractive and user-friendly user i
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Flutter 
 - 💞️ I’m looking to collaborate with other developers
-- 📫 How can you contact me? LinkedIn-https://www.linkedin.com/in/sania-khan-developer/
+- 📫 How can you contact me? LinkedIn-[Sania Khan](https://www.linkedin.com/in/sania-khan-dev/)
 <!---
 Sania-Developer/Sania-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
